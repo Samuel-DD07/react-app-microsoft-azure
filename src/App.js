@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>Ceci est un test ! Et voici l'update.</h1>
+      <h1>Ceci est un test pour déployer un projet react app avec Microsoft Azure.</h1>
     </div>
   );
 }
